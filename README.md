@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine skills<br>👯 I’m looking to collaborate on ML projects <br>🤝 I’m looking for help with Deep Learning <br>🌱 I’m currently learning ML algorithms and Deep Learning Concepts<br>💬 Ask me about Tech , Anime and AI<br>⚡ Fun fact : I like to play Badminton and watch anime
+🔭 I’m currently working on Machine Learning skills<br>👯 I’m looking to collaborate on ML projects <br>🤝 I’m looking for help with Deep Learning <br>🌱 I’m currently learning ML algorithms and Deep Learning Concepts<br>💬 Ask me about Tech , Anime and AI<br>⚡ Fun fact : I like to play Badminton and watch anime
 
 
 ## 🌐 Socials:
